@@ -1,2 +1,0 @@
-# Lunato
-PRELIM_PYTHON_JAVA
