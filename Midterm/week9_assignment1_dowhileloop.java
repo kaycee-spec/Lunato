@@ -1,8 +1,8 @@
-package com.mycompany.dowhileloop;
+package com.mycompany.week9_assignment1_dowhileloop;
 
 import java.util.Scanner;
 
-public class Dowhileloop {
+public class Week9_assignment1_dowhileloop{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
