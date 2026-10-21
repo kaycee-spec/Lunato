@@ -1,8 +1,8 @@
-package com.mycompany.assigntwo;
+package com.mycompany.week9_assignment2;
 
 import java.util.Scanner;
 
-public class Numbers {
+public class Week9_assignment2{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         char choice;
