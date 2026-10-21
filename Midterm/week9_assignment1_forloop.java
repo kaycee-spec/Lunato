@@ -1,7 +1,7 @@
-package com.mycompany.forloop;
+package com.mycompany.week9_assignment1_forloop;
 import java.util.Scanner;
 
-public class Forloop {
+public class Week9_assignment1_forloop {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
