@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EvenOdd {
+public class Week7_assignment_1 {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
