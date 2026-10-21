@@ -1,7 +1,7 @@
-package com.mycompany.whileloop;
+package com.mycompany.week9_assignment1_whileloop;
 import java.util.Scanner;
 
-public class Whileloop {
+public class Week9_assignment1_whileloop {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
