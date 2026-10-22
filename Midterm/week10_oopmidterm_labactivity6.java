@@ -1,8 +1,8 @@
-package com.mycompany.week10actlab6;
+package com.mycompany.week10_oopmidterm_labactivity6;
 
 import java.util.Scanner;
 
-public class Week10actlab6 {
+public class Week10_oopmidterm_labactivity6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
