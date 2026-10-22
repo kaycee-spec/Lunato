@@ -1,11 +1,11 @@
-package com.mycompany.allna;
+package com.mycompany.week7_oopmidterm_activty1;
 
 import java.util.*;
 import java.io.*;
 import java.sql.*;
 import java.text.*;
 
-public class Allna {
+public class Week7_oopmidterm_activty1 {
 
     static Scanner input = new Scanner(System.in);
 
