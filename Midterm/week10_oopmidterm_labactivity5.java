@@ -1,11 +1,11 @@
-package com.mycompany.bankingapp;
+package com.mycompany.week10_oopmidterm_labactivity5;
 
 import java.util.Scanner;
 
 // ==========================================
 // FILE 1: Account.java (Combined as base class)
 // ==========================================
-abstract class Account {
+abstract class Week10_oopmidterm_labactivity5 {
     private String accountNumber;
     private double balance;
 
