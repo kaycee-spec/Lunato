@@ -1,8 +1,8 @@
-package com.mycompany.week13_assignment1;
+package com.mycompany.week13_assignment_1;
 
 import java.util.Scanner;
 
-public class Week13_assignment1 {
+public class Week13_assignment_1 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
